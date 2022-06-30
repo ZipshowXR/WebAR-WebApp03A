@@ -5,9 +5,9 @@
 "dataUrl": "WebAR-WebApp03A.data.unityweb",
 "wasmCodeUrl": "WebAR-WebApp03A.wasm",
 "wasmFrameworkUrl": "WebAR-WebApp03A.wasm.framework.unityweb",
-"graphicsAPI": ["WebGL 2.0"],
+"graphicsAPI": ["WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
-"splashScreenStyle": "Dark",
+"splashScreenStyle": "Light",
 
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
